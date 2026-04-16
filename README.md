@@ -12,3 +12,4 @@ I started up the my Ubuntu VM which i had already installed, then i open the ter
 sudo apt update 
 
 This command doesn't install anything, it only update the list.      
+<img width="4032" height="3024" alt="update-system" src="https://github.com/user-attachments/assets/ca4150c7-664e-436f-9590-58f208651b53" />

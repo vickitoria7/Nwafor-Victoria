@@ -6,6 +6,8 @@ This project demonstrates the deployment of an SSH honeypot using cowrie to capt
 * Basic terminal knowledge
 # STEP1: UPDATE MY SYSTEM
 I started up the my Ubuntu VM which i had already installed, then i open the terminal and bashed in the command to update my system.
-        sudo apt update 
+       
+        
+sudo apt update 
 
 This command doesn't install anything, it only update the list.      

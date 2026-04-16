@@ -32,7 +32,7 @@ The tools i will be using for this project is:
   <img width="4032" height="3024" alt="Tools_installation" src="https://github.com/user-attachments/assets/30cae66c-2ddd-49ef-b7b0-e43a274916e2" />
   <img width="4032" height="3024" alt="Tools_Installation2" src="https://github.com/user-attachments/assets/6b9bc6c8-28ce-4c1d-aeb2-2d598a687cc8" />
 
-  All the tools i needed was created.
+  All the tools i needed was installed.
 
   # STEP3: DOWNLOAD COWRIE
   

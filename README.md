@@ -35,5 +35,31 @@ The tools i will be using for this project is:
   All the tools i needed was installed.
 
   # STEP3: DOWNLOAD COWRIE
-  
+  This is the step where i get the cowrie link from github, then in git clone the link by bashing this command:
+
+            git clone http://github.com/cowrie/cowrie.git
+
+This will download all the entire cowrie source code to my system
+/><img width="4032" height="3024" alt="IMG_3424" src="https://github.com/user-attachments/assets/89df24f7-bce4-480a-b848-ab9a7ffbdcff" />
+
+
+
+
+
+
+
+
+
+<img width="3941" height="629" alt="IMG_3423" src="https://github.com/user-attachments/assets/a6c69363-1dde-4918-8752-6c7313e23152"
+
+
+
+
+
+
+
+
+
+
+
   

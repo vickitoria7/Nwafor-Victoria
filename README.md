@@ -40,7 +40,8 @@ The tools i will be using for this project is:
             git clone http://github.com/cowrie/cowrie.git
 
 This will download all the entire cowrie source code to my system
-<img width="4032" height="3024" alt="IMG_3424" src="https://github.com/user-attachments/assets/89df24f7-bce4-480a-b848-ab9a7ffbdcff" />
+<img width="3779" height="699" alt="IMG_3425" src="https://github.com/user-attachments/assets/0dfe914b-7c95-43c8-8768-ef36bcd86ede" />
+
 
 
 

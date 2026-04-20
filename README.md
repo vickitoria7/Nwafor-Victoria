@@ -74,11 +74,24 @@ This command installs all the them automatically.
 * reqiurement.txt - this is a list of all packages cowrie needs.
 
 <img width="4032" height="3024" alt="IMG_3445" src="https://github.com/user-attachments/assets/ae16377b-6add-4d59-b4c0-cb7a0b3274c6" />
-
-
-
-
-
 <img width="4032" height="3024" alt="IMG_3446" src="https://github.com/user-attachments/assets/62992f73-e994-4efd-9394-b024debf6945" />
 
+# STEP6: CONFIGURE COWRIE
+This is where i will make cowrie my honeypot instead of been a downloaded tool, so i will be turning it into "A fake server designed to trap attacker and record everything thry do.
+
+    cp etc/cowrie.cfg.dist etc/cowrie.cfg
+
+* cp - copy. This means i copied a defualt config file, i will be able to edit setting without breaking the original.
+
+# STEP7: START THE HONEYPOT
+This runs the cowrie program and start a fake SSH server on port 2222
+
+    bin/cowie start
+
+then i checked the status to comfirm if it's running or not
+
+    bin/cowrie status
+    
+
   
+

@@ -41,17 +41,32 @@ The tools i will be using for this project is:
 
 This will download all the entire cowrie source code to my system
 <img width="3779" height="699" alt="IMG_3425" src="https://github.com/user-attachments/assets/0dfe914b-7c95-43c8-8768-ef36bcd86ede" />
+Then i will change into the cowrie directory, this will move me into the cowrie project folder.
 
+      cd cowrie
 
+# STEP4: CREATE A VIRTUAL ENVIRONMENT
+This is all about creatimg an isolated python environment, that will prevents conflicts with other python projects and keep my system clean.
 
+     python3 -m venv cowrie-env
 
+* python3 - this will tell my system to run the python3 interpreter.
+* -m - this will tell python to run one of my build-in tools, it means run a module as a script.
+* venv - this means virtual environment,this is what create isolated environment and keeps dependencies separete.
+* cowrie-env - this is just the name of the environment.
 
+Then i activated it, this allows my terminal to works inside that environment.
 
-
-
-
+     source cowrie-env/bin/activate
 
 <img width="3941" height="629" alt="IMG_3423" src="https://github.com/user-attachments/assets/a6c69363-1dde-4918-8752-6c7313e23152" />
+
+# STEP5:INSTALL COWRIE DEPENDENCIES
+Inside the activated virtual environment, i installed the required python packages.
+
+     pip install -r --upgrade pip
+
+     
 
 
 

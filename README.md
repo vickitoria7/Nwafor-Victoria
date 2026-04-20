@@ -66,16 +66,19 @@ Inside the activated virtual environment, i installed the required python packag
 
      pip install -r --upgrade pip
 
-     
+This updated the python package manager.
+
+     pip install -r requirements.txt
+
+This command installs all the them automatically.
+* reqiurement.txt - this is a list of all packages cowrie needs.
+
+<img width="4032" height="3024" alt="IMG_3445" src="https://github.com/user-attachments/assets/ae16377b-6add-4d59-b4c0-cb7a0b3274c6" />
 
 
 
 
 
-
-
-
-
-
+<img width="4032" height="3024" alt="IMG_3446" src="https://github.com/user-attachments/assets/62992f73-e994-4efd-9394-b024debf6945" />
 
   
